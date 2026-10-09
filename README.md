@@ -1,159 +1,85 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     SUMAIR ALI · AI AUTOMATION ENGINEER
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D2818,50:1B5E20,100:0D2818&height=240&section=header&text=SUMAIR%20ALI&fontSize=75&fontColor=FFFFFF&fontAlignY=42&desc=%5B%20AI%20AUTOMATION%20ENGINEER%20%5D&descAlignY=68&descSize=18&descColor=A5FFB0&animation=twinkling" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=A5FFB0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+booting+sumair-ali.exe...;%3E+loading+agentic+modules...;%3E+status%3A+online+and+building" alt="boot" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=220&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=48&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=17&descColor=9BE8B8" width="100%" />
 
 </div>
 
 <br/>
 
-<table align="center" width="95%">
-<tr>
-<td align="center" width="25%">
-
-**FILE / 01**  
-`identity`
-
-</td>
-<td align="center" width="25%">
-
-**FILE / 02**  
-`capabilities`
-
-</td>
-<td align="center" width="25%">
-
-**FILE / 03**  
-`arsenal`
-
-</td>
-<td align="center" width="25%">
-
-**FILE / 04**  
-`telemetry`
-
-</td>
-</tr>
-</table>
-
----
-
-## `[ FILE / 01 ]` — IDENTITY
-
-```bash
-┌───────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   FULL NAME ......... Sumair Ali                                  │
-│   ROLE .............. AI Automation Engineer                      │
-│   LOCATION .......... Remote · Global                             │
-│   CLEARANCE ......... Full-Stack + Agentic Systems                │
-│   CURRENT FOCUS ..... Autonomous agent workflows                  │
-│   STATUS ............ ONLINE · SHIPPING                           │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-I design and ship production AI systems — **agents, RAG pipelines, and automation workflows** that replace manual effort at scale. My work spans the full stack: model orchestration, tool integration, backend APIs, and cloud deployment.
-
----
-
-## `[ FILE / 02 ]` — CAPABILITIES
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
+
+### About
+
+Full-stack engineer focused on **agentic AI, RAG pipelines, and backend automation**. I build systems that reason, call tools, and complete work end-to-end — the kind of infrastructure that runs quietly in production while everyone else is still writing prompts.
+
+Currently building autonomous agent workflows for real business operations.
+
+</td>
+<td width="40%" valign="top">
+
+### Snapshot
 
 ```
-▸ AGENTIC AI
-  Autonomous loops that plan, act, and verify.
-
-▸ LLM ORCHESTRATION
-  Multi-model routing and prompt pipelines.
-
-▸ RAG SYSTEMS
-  Vector search · reranking · grounded output.
+Role       AI Automation Engineer
+Focus      Agents · RAG · MCP
+Stack      Python · Django · Laravel
+Cloud      AWS · Docker · Linux
+Status     Shipping
 ```
 
 </td>
-<td width="50%" valign="top">
-
-```
-▸ BACKEND ENGINEERING
-  Python · Django · Laravel · FastAPI.
-
-▸ WORKFLOW AUTOMATION
-  n8n · webhooks · event-driven jobs.
-
-▸ CLOUD & DEVOPS
-  AWS · Docker · CI/CD · Linux.
-```
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="center" width="25%"><b>AGENTIC AI</b><br/><sub>Expert · 95%</sub></td>
-<td align="center" width="25%"><b>LLM ORCHESTRATION</b><br/><sub>Expert · 90%</sub></td>
-<td align="center" width="25%"><b>RAG SYSTEMS</b><br/><sub>Advanced · 88%</sub></td>
-<td align="center" width="25%"><b>BACKEND</b><br/><sub>Expert · 92%</sub></td>
 </tr>
 </table>
 
 ---
 
-## `[ FILE / 03 ]` — ARSENAL
+### Focus Areas
+
+| | Area | Description |
+|:---:|:---|:---|
+| **01** | **Agentic AI** | Autonomous loops that plan, act, and verify without supervision |
+| **02** | **RAG Systems** | Vector retrieval + reranking for grounded, hallucination-free output |
+| **03** | **MCP Servers** | Protocol bridges connecting LLMs to internal tools and data |
+| **04** | **Automation** | Event-driven n8n pipelines running business ops end-to-end |
+
+---
+
+### Stack
 
 <div align="center">
-
-**LANGUAGES & FRAMEWORKS**
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,php,js,ts,nodejs&theme=dark&perline=8" />
 
-**DATA & INFRASTRUCTURE**
+<br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx,git,linux&theme=dark&perline=8" />
 
-**AI / AGENT STACK**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-1B5E20?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Anthropic](https://img.shields.io/badge/Anthropic-1B5E20?style=flat-square&logo=anthropic&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-1B5E20?style=flat-square&logo=langchain&logoColor=FFFFFF)
-![n8n](https://img.shields.io/badge/n8n-1B5E20?style=flat-square&logo=n8n&logoColor=FFFFFF)
-![Pinecone](https://img.shields.io/badge/Pinecone-1B5E20?style=flat-square&logo=pinecone&logoColor=FFFFFF)
-
 </div>
 
 ---
 
-## `[ FILE / 04 ]` — TELEMETRY
+### Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D2818&title_color=FFFFFF&icon_color=A5FFB0&text_color=D4F5DD&border_radius=6" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=0D2818&stroke=A5FFB0&ring=A5FFB0&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D4F5DD&dates=8FB89A&border_radius=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=041A11&title_color=9BE8B8&icon_color=9BE8B8&text_color=E6F5EB&border_radius=8" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=041A11&stroke=9BE8B8&ring=9BE8B8&fire=FFFFFF&currStreakLabel=9BE8B8&sideLabels=E6F5EB&dates=6E8E7C&border_radius=8" />
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D2818&title_color=FFFFFF&text_color=D4F5DD&langs_count=8&border_radius=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=041A11&title_color=9BE8B8&text_color=E6F5EB&langs_count=8&border_radius=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=0D2818&color=D4F5DD&line=A5FFB0&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Stream" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=041A11&color=E6F5EB&line=9BE8B8&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="95%" />
 
 </div>
 
 ---
 
-## `[ FILE / 05 ]` — AWARDS
+### Achievements
 
 <div align="center">
 
@@ -163,58 +89,33 @@ I design and ship production AI systems — **agents, RAG pipelines, and automat
 
 ---
 
-## `[ FILE / 06 ]` — CONTRIBUTION SNAKE
+### Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
 
 ---
 
-## `[ FILE / 07 ]` — CONTACT
+### Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sumairali01">
-  <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-<a href="mailto:sumair@example.com">
-  <img src="https://img.shields.io/badge/Email-1B5E20?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-<a href="https://sumair.dev">
-  <img src="https://img.shields.io/badge/Portfolio-1B5E20?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-</a>
-<a href="https://twitter.com/sumairali01">
-  <img src="https://img.shields.io/badge/X-1B5E20?style=for-the-badge&logo=x&logoColor=FFFFFF" />
-</a>
+<a href="https://linkedin.com/in/sumairali01"><img src="https://img.shields.io/badge/LinkedIn-0A2E1F?style=for-the-badge&logo=linkedin&logoColor=9BE8B8" /></a>
+<a href="mailto:sumair@example.com"><img src="https://img.shields.io/badge/Email-0A2E1F?style=for-the-badge&logo=gmail&logoColor=9BE8B8" /></a>
+<a href="https://sumair.dev"><img src="https://img.shields.io/badge/Portfolio-0A2E1F?style=for-the-badge&logo=vercel&logoColor=9BE8B8" /></a>
+<a href="https://twitter.com/sumairali01"><img src="https://img.shields.io/badge/X-0A2E1F?style=for-the-badge&logo=x&logoColor=9BE8B8" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Profile%20Views&color=1B5E20&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=1B5E20&labelColor=0D2818" />
-
-</div>
-
----
-
-<div align="center">
-
-```diff
-@@ ─── FINAL TRANSMISSION ────────────────────────────── @@
--  "I'll do it manually, it's faster this time."
-+  "I'll build an agent once and never touch it again."
-@@ ──────────────────────────────────────────────────── @@
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D2818,50:1B5E20,100:0D2818&height=140&section=footer&text=SUMAIR%20ALI&fontSize=22&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=0A2E1F&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=0A2E1F&labelColor=041A11" />
 
 </div>
 
@@ -275,29 +176,5 @@ jobs:
           curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}" > /dev/null
           curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}" > /dev/null
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}" > /dev/null
-
-     ─────────────────────────────────────────────────────────────
-     FILE 3 · update-readme.yml
-     ─────────────────────────────────────────────────────────────
-name: Update README
-on:
-  schedule: [{ cron: "0 8 * * *" }]
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions: { contents: write }
-    steps:
-      - uses: actions/checkout@v4
-      - run: |
-          DATE=$(date -u '+%Y-%m-%d')
-          sed -i "s|^updated:.*|updated:    ${DATE}|g" README.md || true
-          grep -q "^updated:" README.md || sed -i "/^contact:/a updated:    ${DATE}" README.md
-      - run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile [skip ci]"
-          git push
 
      ═══════════════════════════════════════════════════════════════════ -->
