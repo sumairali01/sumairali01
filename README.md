@@ -1,272 +1,311 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     SUMAIR · AI AUTOMATION ENGINEER
+     ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00D9FF,100:000000&height=280&section=header&text=SUMAIR&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=%5B%20AI%20AUTOMATION%20ENGINEER%20%5D&descAlignY=68&descSize=20&animation=twinkling" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+initializing+sumair.exe...;%3E+loading+agentic+modules...;%3E+status%3A+online+and+building" alt="Terminal boot" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E1A,100:0A0E1A&height=200&section=header&text=Sumair&fontSize=68&fontColor=58A6FF&fontAlignY=45&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=18&descColor=8B949E" width="100%" />
 
 </div>
 
-<br/>
+<div align="center">
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+agents+that+do+real+work;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+n8n)](https://github.com/sumairali01)
 
-## `$ cat about.md`
+</div>
 
-```bash
-┌─────────────────────────────────────────┐
-│  USER     →  sumair                     │
-│  ROLE     →  AI Automation Developer    │
-│  STACK    →  Python · Django · Laravel  │
-│  SPECIAL  →  Agentic AI · RAG · MCP     │
-│  LOCATION →  [ somewhere on Earth ]     │
-│  STATUS   →  building in public         │
-└─────────────────────────────────────────┘
+---
+
+### Profile
+
+```yaml
+role:       AI Automation Engineer
+location:   Remote · Global
+focus:      Agentic AI · LLM Orchestration · Backend Systems
+stack:      Python · Django · Laravel · Docker · AWS
+currently:  Building autonomous agent workflows
+contact:    sumair@example.com
 ```
 
-> I don't just *use* AI — I make it **do the boring work** so humans don't have to.
+I design and ship production AI systems — agents, RAG pipelines, and automation workflows that replace manual effort at scale. My work spans the full stack: model orchestration, tool integration, backend APIs, and cloud deployment.
+
+---
+
+### Core Competencies
+
+| Domain | Proficiency | Focus |
+|:---|:---:|:---|
+| **Agentic AI** | Expert | Tool-calling loops, planning, verification |
+| **LLM Orchestration** | Expert | Multi-model routing, prompt pipelines |
+| **RAG Systems** | Advanced | Vector search, reranking, chunking |
+| **Backend Engineering** | Expert | Python · Django · Laravel · FastAPI |
+| **Workflow Automation** | Advanced | n8n · webhooks · event-driven |
+| **Cloud & DevOps** | Advanced | AWS · Docker · CI/CD · Linux |
+
+---
+
+### Technology Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,php,js,ts,nodejs&theme=dark&perline=8" />
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx,git,linux&theme=dark&perline=8" />
+
+**AI / Agent Stack**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0E1A?style=flat-square&logo=openai&logoColor=58A6FF)
+![Anthropic](https://img.shields.io/badge/Anthropic-0A0E1A?style=flat-square&logo=anthropic&logoColor=58A6FF)
+![LangChain](https://img.shields.io/badge/LangChain-0A0E1A?style=flat-square&logo=langchain&logoColor=58A6FF)
+![n8n](https://img.shields.io/badge/n8n-0A0E1A?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A0E1A?style=flat-square&logo=pinecone&logoColor=58A6FF)
+
+</div>
+
+---
+
+### What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Autonomous Agents**
+<br/>
+Production agents that reason over goals, call tools, and complete multi-step tasks without supervision.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-## `$ top --skills`
+**RAG Pipelines**
+<br/>
+Grounded retrieval systems with hybrid search and reranking — eliminating hallucination on internal data.
 
-```diff
-+ Agentic AI        ████████████░  95%
-+ LLM Orchestration ███████████░░  90%
-+ RAG Systems       ███████████░░  88%
-+ Backend (Py/PHP)  ████████████░  92%
-+ n8n / Workflows   ███████████░░  87%
-- Sleep             █░░░░░░░░░░░░  08%
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**MCP Servers**
+<br/>
+Model Context Protocol integrations that connect LLMs to internal tools, databases, and APIs.
+
+</td>
+<td width="50%" valign="top">
+
+**Automation Workflows**
+<br/>
+Event-driven n8n pipelines and backend jobs that run business operations end-to-end.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
+---
 
-<br/>
+### GitHub Statistics
 
 <div align="center">
 
-## Weapon of Choice
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0E1A&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=0A0E1A&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=6" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,laravel,php,js,ts,nodejs,fastapi,mysql,postgres,redis,docker,aws,nginx,git,linux,vscode&theme=dark&perline=9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0E1A&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=6" />
 
-<br/><br/>
+<br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00D9FF)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=00D9FF)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00D9FF)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![MCP](https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=00D9FF)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00D9FF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=0A0E1A&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
-
-<br/>
+### Achievements
 
 <div align="center">
 
-## The Four Pillars
+<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<b>AGENTS</b><br/>
-<sub>Autonomous loops that <i>think → act → verify</i> without a human babysitter.</sub>
-</td>
-<td align="center" width="25%">
-<b>RAG</b><br/>
-<sub>Vector search + reranking so your LLM stops hallucinating your docs.</sub>
-</td>
-<td align="center" width="25%">
-<b>MCP</b><br/>
-<sub>Model Context Protocol servers bridging LLMs to real tools and data.</sub>
-</td>
-<td align="center" width="25%">
-<b>AUTOMATION</b><br/>
-<sub>n8n + webhooks + cron jobs that run your ops while you sleep.</sub>
-</td>
-</tr>
-</table>
+---
 
-<br/>
+### Contribution Activity
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
-
-<br/>
-
-<div align="center">
-
-## Live Telemetry
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=radical&hide_border=true&background=000000&stroke=00D9FF&ring=00D9FF&fire=FF0055&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=donut-vertical&theme=radical&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=ffffff&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=000000&color=00D9FF&line=00D9FF&point=FF0055&area=true&hide_border=true&custom_title=Contribution%20Pulse" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
-
-<br/>
-
-<div align="center">
-
-## Trophy Vault
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
-
-<br/>
-
-<div align="center">
-
-## The Snake Ate My Commits
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-</div>
-
-<br/>
+### Contact
 
 <div align="center">
 
-## Signal Me
-
-<br/>
-
-<a href="https://github.com/sumairali01">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF" />
-</a>
 <a href="https://linkedin.com/in/sumairali01">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 <a href="mailto:sumair@example.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
-</a>
-<a href="https://twitter.com/sumairali01">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
 </a>
 <a href="https://sumair.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```diff
-@@ ── FINAL TRANSMISSION ───────────────────────────── @@
--  "I'll do it manually, it's faster this time."
-+  "I'll build an agent once and never touch it again."
-@@ ─────────────────────────────────────────────────── @@
-```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sumairali01&label=VISITORS&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sumairali01?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=000000" />
+<a href="https://twitter.com/sumairali01">
+  <img src="https://img.shields.io/badge/X-0A0E1A?style=for-the-badge&logo=x&logoColor=58A6FF" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00D9FF,100:000000&height=160&section=footer&text=EOF&fontSize=30&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=58A6FF&labelColor=0A0E1A" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Open to collaboration on AI automation, agent infrastructure, and backend systems.</sub>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     SETUP NOTES (hidden from rendered view)
-     ═══════════════════════════════════════════════════════════════════
+     AUTOMATED SETUP — READ ONCE, THEN FORGET
 
-     1. REPLACE BEFORE PUBLISHING:
-        - sumairali01          → your real GitHub username
-        - linkedin.com/in/sumairali01 → your LinkedIn URL
-        - sumair@example.com   → your email
-        - twitter.com/sumairali01 → your X handle
-        - sumair.dev           → your portfolio URL
+     The profile is fully self-updating. Only two things to do:
 
-     2. ENABLE THE SNAKE ANIMATION:
-        Create a repo named exactly "<your-username>/<your-username>"
-        and add this GitHub Action at .github/workflows/snake.yml:
+     ─────────────────────────────────────────────────────────────
+     STEP 1 · REPLACE PLACEHOLDERS
+     ─────────────────────────────────────────────────────────────
+     Search and replace across this file:
+       sumairali01                    → your GitHub username
+       linkedin.com/in/sumairali01    → your LinkedIn URL
+       sumair@example.com             → your email
+       twitter.com/sumairali01        → your X handle
+       sumair.dev                     → your portfolio URL
 
-        name: Generate Snake
-        on:
-          schedule: [{ cron: "0 */12 * * *" }]
-          workflow_dispatch:
-          push: { branches: [main] }
-        jobs:
-          build:
-            runs-on: ubuntu-latest
-            steps:
-              - uses: Platane/snk@v3
-                with:
-                  github_user_name: ${{ github.repository_owner }}
-                  outputs: |
-                    dist/github-contribution-grid-snake.svg
-                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-              - uses: crazy-max/ghaction-github-pages@v3
-                with:
-                  target_branch: output
-                  build_dir: dist
-                env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ─────────────────────────────────────────────────────────────
+     STEP 2 · CREATE THE AUTOMATION REPO
+     ─────────────────────────────────────────────────────────────
+     Create a PUBLIC repo named exactly: <your-username>/<your-username>
+     Add this file as: README.md
+
+     Then add these THREE workflows in .github/workflows/
+     Everything below is copy-paste ready — no edits required.
+
+     ─────────────────────────────────────────────────────────────
+     FILE 1 · .github/workflows/snake.yml
+     ─────────────────────────────────────────────────────────────
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     ─────────────────────────────────────────────────────────────
+     FILE 2 · .github/workflows/stats.yml
+     (Optional — regenerates cached stats every 24h for accuracy)
+     ─────────────────────────────────────────────────────────────
+name: Refresh Stats Cache
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Warm GitHub Readme Stats cache
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}" > /dev/null
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}" > /dev/null
+      - name: Done
+        run: echo "Stats cache refreshed."
+
+     ─────────────────────────────────────────────────────────────
+     FILE 3 · .github/workflows/update-readme.yml
+     (Auto-updates the "currently" line in the Profile block daily)
+     ─────────────────────────────────────────────────────────────
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update timestamp line
+        run: |
+          DATE=$(date -u '+%Y-%m-%d')
+          sed -i "s|^updated:.*|updated:    ${DATE}|g" README.md || true
+          if ! grep -q "^updated:" README.md; then
+            sed -i "/^contact:/a updated:    ${DATE}" README.md
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile [skip ci]"
+          git push
+
+     ─────────────────────────────────────────────────────────────
+     WHAT UPDATES AUTOMATICALLY (no action needed)
+     ─────────────────────────────────────────────────────────────
+     · Contribution snake      → every 24h
+     · GitHub stats cards       → on demand (cached fresh daily)
+     · Streak counter           → live from API
+     · Top languages chart      → live from API
+     · Activity graph           → live from API
+     · Profile view counter     → live from komarev
+     · Follower count           → live from shields.io
+     · Trophy shelf             → live from API
+     · "updated" timestamp      → every 24h via workflow
 
      ═══════════════════════════════════════════════════════════════════ -->
