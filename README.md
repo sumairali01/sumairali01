@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=260&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=17&descColor=9BE8B8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,100:04102A&height=260&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=17&descColor=9BC8E8" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=9BE8B8&center=true&vCenter=true&width=600&height=30&lines=Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+MCP+Servers;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=600&height=30&lines=Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+MCP+Servers;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
 
 </div>
 
@@ -68,16 +68,16 @@ Status     Shipping
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=041A11&title_color=9BE8B8&icon_color=9BE8B8&text_color=E6F5EB&border_radius=8" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=041A11&stroke=9BE8B8&ring=9BE8B8&fire=FFFFFF&currStreakLabel=9BE8B8&sideLabels=E6F5EB&dates=6E8E7C&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=04102A&title_color=9BC8E8&icon_color=9BC8E8&text_color=E6F0FA&border_radius=8" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=04102A&stroke=9BC8E8&ring=9BC8E8&fire=FFFFFF&currStreakLabel=9BC8E8&sideLabels=E6F0FA&dates=6E85A0&border_radius=8" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=041A11&title_color=9BE8B8&text_color=E6F5EB&langs_count=8&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=04102A&title_color=9BC8E8&text_color=E6F0FA&langs_count=8&border_radius=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=041A11&color=E6F5EB&line=9BE8B8&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=04102A&color=E6F0FA&line=9BC8E8&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="95%" />
 
 </div>
 
@@ -87,7 +87,7 @@ Status     Shipping
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
 
 </div>
 
@@ -111,15 +111,15 @@ Status     Shipping
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sumairali01"><img src="https://img.shields.io/badge/LinkedIn-0A2E1F?style=for-the-badge&logo=linkedin&logoColor=9BE8B8" /></a>
-<a href="mailto:sumair@example.com"><img src="https://img.shields.io/badge/Email-0A2E1F?style=for-the-badge&logo=gmail&logoColor=9BE8B8" /></a>
-<a href="https://sumair.dev"><img src="https://img.shields.io/badge/Portfolio-0A2E1F?style=for-the-badge&logo=vercel&logoColor=9BE8B8" /></a>
-<a href="https://twitter.com/sumairali01"><img src="https://img.shields.io/badge/X-0A2E1F?style=for-the-badge&logo=x&logoColor=9BE8B8" /></a>
+<a href="https://linkedin.com/in/sumairali01"><img src="https://img.shields.io/badge/LinkedIn-0A1E3F?style=for-the-badge&logo=linkedin&logoColor=9BC8E8" /></a>
+<a href="mailto:sumair@example.com"><img src="https://img.shields.io/badge/Email-0A1E3F?style=for-the-badge&logo=gmail&logoColor=9BC8E8" /></a>
+<a href="https://sumair.dev"><img src="https://img.shields.io/badge/Portfolio-0A1E3F?style=for-the-badge&logo=vercel&logoColor=9BC8E8" /></a>
+<a href="https://twitter.com/sumairali01"><img src="https://img.shields.io/badge/X-0A1E3F?style=for-the-badge&logo=x&logoColor=9BC8E8" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=0A2E1F&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=0A2E1F&labelColor=041A11" />
+<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=0A1E3F&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=0A1E3F&labelColor=04102A" />
 
 </div>
 
@@ -127,7 +127,7 @@ Status     Shipping
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=140&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,100:04102A&height=140&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" />
 
 </div>
 
