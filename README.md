@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,100:04102A&height=260&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=17&descColor=9BC8E8" width="100%" />
+<table width="75%" align="center">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #0A1E3F 0%, #04102A 100%); border-radius: 12px; padding: 30px 20px;">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=600&height=30&lines=Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+MCP+Servers;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
+<h1 style="color: #FFFFFF; font-size: 42px; margin: 0; letter-spacing: 2px;">Sumair Ali</h1>
+
+<p style="color: #9BC8E8; font-size: 15px; margin: 6px 0 18px 0; letter-spacing: 1px;">AI AUTOMATION ENGINEER</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=380&height=25&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+MCP;Python+%C2%B7+Django+%C2%B7+Laravel;Building+automation+that+runs+itself" alt="typing" />
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
