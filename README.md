@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=220&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=48&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=17&descColor=9BE8B8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=260&section=header&text=Sumair%20Ali&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=17&descColor=9BE8B8" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=9BE8B8&center=true&vCenter=true&width=600&height=30&lines=Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+MCP+Servers;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
 
 </div>
 
@@ -116,6 +120,14 @@ Status     Shipping
 
 <img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=0A2E1F&style=flat-square" />
 <img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=0A2E1F&labelColor=041A11" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2E1F,100:041A11&height=140&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" />
 
 </div>
 
