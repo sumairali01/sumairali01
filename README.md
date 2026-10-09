@@ -1,62 +1,128 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     SUMAIR Ali · AI AUTOMATION ENGINEER
+     SUMAIR ALI · AI AUTOMATION ENGINEER
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,50:1B5E20,100:0D2818&height=200&section=header&text=Sumair&fontSize=68&fontColor=FFFFFF&fontAlignY=45&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=18&descColor=D4F5DD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D2818,50:1B5E20,100:0D2818&height=240&section=header&text=SUMAIR%20ALI&fontSize=75&fontColor=FFFFFF&fontAlignY=42&desc=%5B%20AI%20AUTOMATION%20ENGINEER%20%5D&descAlignY=68&descSize=18&descColor=A5FFB0&animation=twinkling" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=A5FFB0&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+booting+sumair-ali.exe...;%3E+loading+agentic+modules...;%3E+status%3A+online+and+building" alt="boot" />
 
 </div>
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+agents+that+do+real+work;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+n8n)](https://github.com/sumairali01)
+<table align="center" width="95%">
+<tr>
+<td align="center" width="25%">
 
-</div>
+**FILE / 01**  
+`identity`
+
+</td>
+<td align="center" width="25%">
+
+**FILE / 02**  
+`capabilities`
+
+</td>
+<td align="center" width="25%">
+
+**FILE / 03**  
+`arsenal`
+
+</td>
+<td align="center" width="25%">
+
+**FILE / 04**  
+`telemetry`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Profile
+## `[ FILE / 01 ]` — IDENTITY
 
-```yaml
-role:       AI Automation Engineer
-location:   Remote · Global
-focus:      Agentic AI · LLM Orchestration · Backend Systems
-stack:      Python · Django · Laravel · Docker · AWS
-currently:  Building autonomous agent workflows
-contact:    sumair@example.com
+```bash
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   FULL NAME ......... Sumair Ali                                  │
+│   ROLE .............. AI Automation Engineer                      │
+│   LOCATION .......... Remote · Global                             │
+│   CLEARANCE ......... Full-Stack + Agentic Systems                │
+│   CURRENT FOCUS ..... Autonomous agent workflows                  │
+│   STATUS ............ ONLINE · SHIPPING                           │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
-I design and ship production AI systems — agents, RAG pipelines, and automation workflows that replace manual effort at scale. My work spans the full stack: model orchestration, tool integration, backend APIs, and cloud deployment.
+I design and ship production AI systems — **agents, RAG pipelines, and automation workflows** that replace manual effort at scale. My work spans the full stack: model orchestration, tool integration, backend APIs, and cloud deployment.
 
 ---
 
-### Core Competencies
+## `[ FILE / 02 ]` — CAPABILITIES
 
-| Domain | Proficiency | Focus |
-|:---|:---:|:---|
-| **Agentic AI** | Expert | Tool-calling loops, planning, verification |
-| **LLM Orchestration** | Expert | Multi-model routing, prompt pipelines |
-| **RAG Systems** | Advanced | Vector search, reranking, chunking |
-| **Backend Engineering** | Expert | Python · Django · Laravel · FastAPI |
-| **Workflow Automation** | Advanced | n8n · webhooks · event-driven |
-| **Cloud & DevOps** | Advanced | AWS · Docker · CI/CD · Linux |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+▸ AGENTIC AI
+  Autonomous loops that plan, act, and verify.
+
+▸ LLM ORCHESTRATION
+  Multi-model routing and prompt pipelines.
+
+▸ RAG SYSTEMS
+  Vector search · reranking · grounded output.
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+▸ BACKEND ENGINEERING
+  Python · Django · Laravel · FastAPI.
+
+▸ WORKFLOW AUTOMATION
+  n8n · webhooks · event-driven jobs.
+
+▸ CLOUD & DEVOPS
+  AWS · Docker · CI/CD · Linux.
+```
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" width="25%"><b>AGENTIC AI</b><br/><sub>Expert · 95%</sub></td>
+<td align="center" width="25%"><b>LLM ORCHESTRATION</b><br/><sub>Expert · 90%</sub></td>
+<td align="center" width="25%"><b>RAG SYSTEMS</b><br/><sub>Advanced · 88%</sub></td>
+<td align="center" width="25%"><b>BACKEND</b><br/><sub>Expert · 92%</sub></td>
+</tr>
+</table>
 
 ---
 
-### Technology Stack
+## `[ FILE / 03 ]` — ARSENAL
 
 <div align="center">
 
-**Languages & Frameworks**
+**LANGUAGES & FRAMEWORKS**
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,php,js,ts,nodejs&theme=dark&perline=8" />
 
-**Data & Infrastructure**
+**DATA & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx,git,linux&theme=dark&perline=8" />
 
-**AI / Agent Stack**
+**AI / AGENT STACK**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-1B5E20?style=flat-square&logo=openai&logoColor=FFFFFF)
 ![Anthropic](https://img.shields.io/badge/Anthropic-1B5E20?style=flat-square&logo=anthropic&logoColor=FFFFFF)
@@ -68,46 +134,7 @@ I design and ship production AI systems — agents, RAG pipelines, and automatio
 
 ---
 
-### What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Autonomous Agents**
-<br/>
-Production agents that reason over goals, call tools, and complete multi-step tasks without supervision.
-
-</td>
-<td width="50%" valign="top">
-
-**RAG Pipelines**
-<br/>
-Grounded retrieval systems with hybrid search and reranking — eliminating hallucination on internal data.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**MCP Servers**
-<br/>
-Model Context Protocol integrations that connect LLMs to internal tools, databases, and APIs.
-
-</td>
-<td width="50%" valign="top">
-
-**Automation Workflows**
-<br/>
-Event-driven n8n pipelines and backend jobs that run business operations end-to-end.
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Statistics
+## `[ FILE / 04 ]` — TELEMETRY
 
 <div align="center">
 
@@ -120,13 +147,13 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=0D2818&color=D4F5DD&line=A5FFB0&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=0D2818&color=D4F5DD&line=A5FFB0&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Stream" width="95%" />
 
 </div>
 
 ---
 
-### Achievements
+## `[ FILE / 05 ]` — AWARDS
 
 <div align="center">
 
@@ -136,21 +163,21 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 
 ---
 
-### Contribution Activity
+## `[ FILE / 06 ]` — CONTRIBUTION SNAKE
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
 
 ---
 
-### Contact
+## `[ FILE / 07 ]` — CONTACT
 
 <div align="center">
 
@@ -178,51 +205,47 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 
 <div align="center">
 
-<sub>Open to collaboration on AI automation, agent infrastructure, and backend systems.</sub>
+```diff
+@@ ─── FINAL TRANSMISSION ────────────────────────────── @@
+-  "I'll do it manually, it's faster this time."
++  "I'll build an agent once and never touch it again."
+@@ ──────────────────────────────────────────────────── @@
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D2818,50:1B5E20,100:0D2818&height=140&section=footer&text=SUMAIR%20ALI&fontSize=22&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     AUTOMATED SETUP — READ ONCE, THEN FORGET
+     AUTOMATED SETUP
 
-     The profile is fully self-updating. Only two things to do:
-
-     ─────────────────────────────────────────────────────────────
      STEP 1 · REPLACE PLACEHOLDERS
-     ─────────────────────────────────────────────────────────────
-     Search and replace across this file:
        sumairali01                    → your GitHub username
        linkedin.com/in/sumairali01    → your LinkedIn URL
        sumair@example.com             → your email
        twitter.com/sumairali01        → your X handle
        sumair.dev                     → your portfolio URL
 
-     ─────────────────────────────────────────────────────────────
      STEP 2 · CREATE THE AUTOMATION REPO
-     ─────────────────────────────────────────────────────────────
-     Create a PUBLIC repo named exactly: <your-username>/<your-username>
-     Add this file as: README.md
+       Public repo named exactly: <username>/<username>
+       Paste this file as README.md
 
-     Then add these THREE workflows in .github/workflows/
-     Everything below is copy-paste ready — no edits required.
+     STEP 3 · ADD WORKFLOWS in .github/workflows/
 
      ─────────────────────────────────────────────────────────────
-     FILE 1 · .github/workflows/snake.yml
+     FILE 1 · snake.yml
      ─────────────────────────────────────────────────────────────
 name: Generate Snake
-
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push:
-    branches: [main]
-
+  push: { branches: [main] }
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: { contents: write }
     steps:
       - uses: Platane/snk@v3
         with:
@@ -238,74 +261,43 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
      ─────────────────────────────────────────────────────────────
-     FILE 2 · .github/workflows/stats.yml
-     (Optional — regenerates cached stats every 24h for accuracy)
+     FILE 2 · stats-cache.yml
      ─────────────────────────────────────────────────────────────
 name: Refresh Stats Cache
-
 on:
-  schedule:
-    - cron: "0 6 * * *"
+  schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
-
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Warm GitHub Readme Stats cache
-        run: |
+      - run: |
           curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}" > /dev/null
           curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}" > /dev/null
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}" > /dev/null
-      - name: Done
-        run: echo "Stats cache refreshed."
 
      ─────────────────────────────────────────────────────────────
-     FILE 3 · .github/workflows/update-readme.yml
-     (Auto-updates the "currently" line in the Profile block daily)
+     FILE 3 · update-readme.yml
      ─────────────────────────────────────────────────────────────
 name: Update README
-
 on:
-  schedule:
-    - cron: "0 8 * * *"
+  schedule: [{ cron: "0 8 * * *" }]
   workflow_dispatch:
-
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: { contents: write }
     steps:
       - uses: actions/checkout@v4
-
-      - name: Update timestamp line
-        run: |
+      - run: |
           DATE=$(date -u '+%Y-%m-%d')
           sed -i "s|^updated:.*|updated:    ${DATE}|g" README.md || true
-          if ! grep -q "^updated:" README.md; then
-            sed -i "/^contact:/a updated:    ${DATE}" README.md
-          fi
-
-      - name: Commit changes
-        run: |
+          grep -q "^updated:" README.md || sed -i "/^contact:/a updated:    ${DATE}" README.md
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile [skip ci]"
           git push
-
-     ─────────────────────────────────────────────────────────────
-     WHAT UPDATES AUTOMATICALLY (no action needed)
-     ─────────────────────────────────────────────────────────────
-     · Contribution snake      → every 24h
-     · GitHub stats cards       → on demand (cached fresh daily)
-     · Streak counter           → live from API
-     · Top languages chart      → live from API
-     · Activity graph           → live from API
-     · Profile view counter     → live from komarev
-     · Follower count           → live from shields.io
-     · Trophy shelf             → live from API
-     · "updated" timestamp      → every 24h via workflow
 
      ═══════════════════════════════════════════════════════════════════ -->
