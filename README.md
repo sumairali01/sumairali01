@@ -1,90 +1,127 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AI%20Engineer%20%7C%20Agentic%20AI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20AI%20Automation&descAlignY=58&descSize=16)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+Automation+Developer;Exploring+Agentic+AI+%26+LLMs;Building+RAG+Systems+%26+AI+Workflows;Python+%7C+Django+%7C+Laravel+%7C+Cloud" alt="Typing SVG" />
-</p>
+```
+┌──────────────────────────────────────────────┐
+│  $ whoami                                    │
+│  > sumair — agent builder, backend engineer  │
+│  $ status                                    │
+│  > online · learning · shipping              │
+└──────────────────────────────────────────────┘
+```
 
+**I build software that can think a few steps ahead.**
+
+</div>
+
+---
+
+## `agent.config.yaml`
+
+```yaml
+name: Sumair
+role: AI Automation Developer
+background: Computer Science graduate
+mission: >
+  Turn LLMs from impressive demos into reliable systems
+  that do real work for real people.
+
+focus:
+  - agentic AI and tool-using LLMs
+  - RAG pipelines (embeddings, vector search)
+  - workflow automation
+
+backbone:
+  languages: [Python, PHP, JavaScript]
+  frameworks: [Django, Django REST, Laravel]
+  apis: [REST, GraphQL]
+
+toolbelt:
+  automation: [n8n, MCP]
+  infra: [Docker, AWS, Git]
+  testing: [Postman]
+
+principles:
+  - make it work, then make it reliable
+  - an agent without guardrails is a liability
+  - ship small, learn fast
+```
 
 ---
 
-## Tech Stack & Tools
+## How I think about building agents
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
-### AI & Automation
-<p>
-  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/RAG-0B7285?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/MCP-475569?style=for-the-badge" alt="MCP" />
-</p>
-
-### Cloud & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+```mermaid
+flowchart LR
+    A([Problem]) --> B[Understand the real workflow]
+    B --> C[Pick the smallest tool set]
+    C --> D[LLM reasons + calls tools]
+    D --> E{Good result?}
+    E -- no --> F[Add guardrails / better context]
+    F --> D
+    E -- yes --> G([Ship + monitor])
+    G -.feedback.-> B
+```
 
 ---
----
 
-## About Me
+## Skill levels (honest edition)
 
-Hi, I'm **Sumair** 👋 — a Computer Science graduate passionate about building intelligent software and AI-powered solutions.
-
-I'm focusing on **Agentic AI, LLM applications, and AI automation**, while continuing to build my backend development and cloud engineering skills.
-
-- Exploring Agentic AI, LLMs, and AI agents
-- Learning RAG systems, embeddings, and vector search
-- Exploring MCP, GraphQL, and AI tool integrations
-- Building backend applications with Python and Django
-- Working with Laravel, REST APIs, and databases
-- Exploring workflow automation with n8n
-- Learning Docker, AWS, and cloud deployment
-- Interested in building practical solutions to real-world problems
-
-### My Goal
-
-To build reliable AI-powered applications that solve real problems by combining software engineering, intelligent agents, and automation.
+| Area | Where I am | What I'm doing about it |
+|---|---|---|
+| Python / Django | 🟢 Comfortable | Building real APIs |
+| Laravel / PHP | 🟢 Comfortable | Backend + REST work |
+| LLM apps & prompts | 🟡 Growing fast | Daily experiments |
+| RAG & vector search | 🟡 Learning by building | Embeddings, retrieval quality |
+| MCP & tool integration | 🟡 Exploring | Connecting agents to real tools |
+| Docker & AWS | 🟠 Leveling up | Deploying what I build |
 
 ---
----
 
-## GitHub Statistics
+## Now / Next / Later
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumairali01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+```diff
++ NOW    Building backend apps with Python & Django
++ NOW    Experimenting with agents, RAG, and n8n workflows
+! NEXT   Ship an end-to-end RAG project with a proper eval loop
+! NEXT   Build an MCP server that exposes useful tools to an agent
+- LATER  Deploy agent systems on AWS with Docker, monitoring included
+```
 
 ---
+
+<details>
+<summary><b> Things I'm curious about right now</b></summary>
+
+<br>
+
+- How do you *measure* whether an agent is actually good?
+- When is RAG the right answer, and when is it overkill?
+- How small can an agent's toolset be while still being useful?
+- What makes an automation survive contact with messy real-world data?
+
+</details>
+
+<details>
+<summary><b>🤝 Let's work on something</b></summary>
+
+<br>
+
+I'm open to collaborating on AI automation, agent workflows, and backend projects.
+If you have a repetitive process that eats hours every week, I'd like to hear about it.
+
+- GitHub: [@sumairali01](https://github.com/sumairali01)
+- Add your LinkedIn / email here
+
+</details>
+
 ---
 
-## GitHub Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<sub>`exit code 0` · thanks for stopping by</sub>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
+</div>
