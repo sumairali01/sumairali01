@@ -48,12 +48,12 @@ I build **intelligent automation**: agents that plan and act, retrieval pipeline
 ## GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=8B949E" alt="Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=2563EB&text_color=8B949E" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&hide_border=true&bg_color=000000&border_radius=10&title_color=2563EB&icon_color=2563EB&text_color=8B949E" alt="Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&langs_count=7&hide_border=true&bg_color=000000&border_radius=10&title_color=2563EB&text_color=8B949E" alt="Top languages" />
 </p>
 
 <p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E" alt="Streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&hide_border=true&background=000000&border_radius=10&ring=2563EB&fire=2563EB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E" alt="Streak" />
 </p>
 
 <br/>
