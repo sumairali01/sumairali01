@@ -139,7 +139,17 @@ Status     Shipping
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,100:04102A&height=140&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=72" width="100%" />
+<table width="75%" align="center">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #0A1E3F 0%, #04102A 100%); border-radius: 12px; padding: 22px 20px;">
+
+<h2 style="color: #FFFFFF; font-size: 26px; margin: 0; letter-spacing: 2px;">Sumair Ali</h2>
+
+<p style="color: #9BC8E8; font-size: 12px; margin: 8px 0 0 0; letter-spacing: 1px;">AI AUTOMATION ENGINEER</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
