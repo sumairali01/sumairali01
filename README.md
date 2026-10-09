@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     SUMAIR · AI AUTOMATION ENGINEER
+     SUMAIR Ali · AI AUTOMATION ENGINEER
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E1A,100:0A0E1A&height=200&section=header&text=Sumair&fontSize=68&fontColor=58A6FF&fontAlignY=45&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=18&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=Sumair&fontSize=68&fontColor=00FF88&fontAlignY=45&desc=AI%20Automation%20Engineer&descAlignY=70&descSize=18&descColor=7D8590" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+agents+that+do+real+work;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+n8n)](https://github.com/sumairali01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+agents+that+do+real+work;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+n8n)](https://github.com/sumairali01)
 
 </div>
 
@@ -58,11 +58,11 @@ I design and ship production AI systems — agents, RAG pipelines, and automatio
 
 **AI / Agent Stack**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0E1A?style=flat-square&logo=openai&logoColor=58A6FF)
-![Anthropic](https://img.shields.io/badge/Anthropic-0A0E1A?style=flat-square&logo=anthropic&logoColor=58A6FF)
-![LangChain](https://img.shields.io/badge/LangChain-0A0E1A?style=flat-square&logo=langchain&logoColor=58A6FF)
-![n8n](https://img.shields.io/badge/n8n-0A0E1A?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A0E1A?style=flat-square&logo=pinecone&logoColor=58A6FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=00FF88)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00FF88)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00FF88)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=00FF88)
 
 </div>
 
@@ -111,16 +111,16 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0E1A&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=0A0E1A&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&border_radius=6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=000000&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=7D8590&border_radius=6" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0E1A&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF88&text_color=C9D1D9&langs_count=8&border_radius=6" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=0A0E1A&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=000000&color=C9D1D9&line=00FF88&point=00FF88&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -130,7 +130,7 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumairali01&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
 
 </div>
 
@@ -155,22 +155,22 @@ Event-driven n8n pipelines and backend jobs that run business operations end-to-
 <div align="center">
 
 <a href="https://linkedin.com/in/sumairali01">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
 </a>
 <a href="mailto:sumair@example.com">
-  <img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF88" />
 </a>
 <a href="https://sumair.dev">
-  <img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF88" />
 </a>
 <a href="https://twitter.com/sumairali01">
-  <img src="https://img.shields.io/badge/X-0A0E1A?style=for-the-badge&logo=x&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF88" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Profile%20Views&color=58A6FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=58A6FF&labelColor=0A0E1A" />
+<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Profile%20Views&color=00FF88&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=00FF88&labelColor=000000" />
 
 </div>
 
