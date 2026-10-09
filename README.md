@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### 💻 Languages
 <p>
@@ -40,5 +40,27 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+---
+
+## About Me
+
+Hi, I'm **Sumair** 👋 — a Computer Science graduate passionate about building intelligent software and AI-powered solutions.
+
+I'm focusing on **Agentic AI, LLM applications, and AI automation**, while continuing to build my backend development and cloud engineering skills.
+
+- Exploring Agentic AI, LLMs, and AI agents
+- Learning RAG systems, embeddings, and vector search
+- Exploring MCP, GraphQL, and AI tool integrations
+- Building backend applications with Python and Django
+- Working with Laravel, REST APIs, and databases
+- Exploring workflow automation with n8n
+- Learning Docker, AWS, and cloud deployment
+- Interested in building practical solutions to real-world problems
+
+### My Goal
+
+To build reliable AI-powered applications that solve real problems by combining software engineering, intelligent agents, and automation.
 
 ---
