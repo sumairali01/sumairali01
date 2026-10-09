@@ -64,3 +64,17 @@ I'm focusing on **Agentic AI, LLM applications, and AI automation**, while conti
 To build reliable AI-powered applications that solve real problems by combining software engineering, intelligent agents, and automation.
 
 ---
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
