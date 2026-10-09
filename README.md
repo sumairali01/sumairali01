@@ -1,6 +1,4 @@
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=2500&pause=100&repeat=false&color=9CA3AF&background=033E3E&center=false&vCenter=true&width=880&height=90&lines=%C2%A0%C2%A0Sumair+Ali" alt="Sumair Ali" /><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2500&pause=100&repeat=false&color=9CA3AF&background=0D031B&center=false&vCenter=true&width=880&height=44&lines=%C2%A0%C2%A0AI+Automation+Engineer+%7C+Agentic+AI+%7C+RAG+%7C+MCP+%7C+Backend" alt="AI Automation Engineer" />
-</p>
+<img src="./assets/header.svg" width="100%" alt="Sumair Ali - AI Automation Engineer" />
 
 ---
 
@@ -67,7 +65,7 @@ I build **intelligent automation**: agents that plan and act, retrieval pipeline
 <!--
 SETUP
 1. Create a public repo named exactly: sumairali01/sumairali01
-2. Paste this file in as README.md (no other files needed)
+2. Upload README.md to the root and header.svg into a folder named "assets"
 3. Replace sumair@example.com and sumair.dev with your real email and portfolio.
    (LinkedIn and X use your username; change them if your handles differ)
 
