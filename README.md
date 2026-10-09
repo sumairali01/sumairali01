@@ -78,3 +78,13 @@ To build reliable AI-powered applications that solve real problems by combining 
 </p>
 
 ---
+---
+
+## GitHub Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
