@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,50:1E4A8C,100:04102A&height=170&section=header&text=Sumair%20Ali&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=AI%20AUTOMATION%20ENGINEER%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=64&descSize=13&descColor=9BC8E8" width="75%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3D4A1F,100:3D4A1F&height=170&section=header&text=Sumair%20Ali&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=AI%20AUTOMATION%20ENGINEER%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=64&descSize=13&descColor=FFFFFF" width="75%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=380&height=25&lines=Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=3D4A1F&center=true&vCenter=true&width=380&height=25&lines=Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
 
 </div>
 
@@ -68,16 +68,16 @@ Status     Shipping
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=04102A&title_color=9BC8E8&icon_color=9BC8E8&text_color=E6F0FA&border_radius=8" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=04102A&stroke=9BC8E8&ring=9BC8E8&fire=FFFFFF&currStreakLabel=9BC8E8&sideLabels=E6F0FA&dates=6E85A0&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=github_dark&hide_border=true&bg_color=3D4A1F&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=8" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&theme=github-dark-blue&hide_border=true&background=3D4A1F&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=8" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=04102A&title_color=9BC8E8&text_color=E6F0FA&langs_count=8&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=github_dark&hide_border=true&bg_color=3D4A1F&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&border_radius=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=04102A&color=E6F0FA&line=9BC8E8&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumairali01&bg_color=3D4A1F&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Activity" width="95%" />
 
 </div>
 
@@ -111,15 +111,15 @@ Status     Shipping
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sumairali01"><img src="https://img.shields.io/badge/LinkedIn-0A1E3F?style=for-the-badge&logo=linkedin&logoColor=9BC8E8" /></a>
-<a href="mailto:sumair@example.com"><img src="https://img.shields.io/badge/Email-0A1E3F?style=for-the-badge&logo=gmail&logoColor=9BC8E8" /></a>
-<a href="https://sumair.dev"><img src="https://img.shields.io/badge/Portfolio-0A1E3F?style=for-the-badge&logo=vercel&logoColor=9BC8E8" /></a>
-<a href="https://twitter.com/sumairali01"><img src="https://img.shields.io/badge/X-0A1E3F?style=for-the-badge&logo=x&logoColor=9BC8E8" /></a>
+<a href="https://linkedin.com/in/sumairali01"><img src="https://img.shields.io/badge/LinkedIn-3D4A1F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+<a href="mailto:sumair@example.com"><img src="https://img.shields.io/badge/Email-3D4A1F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+<a href="https://sumair.dev"><img src="https://img.shields.io/badge/Portfolio-3D4A1F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
+<a href="https://twitter.com/sumairali01"><img src="https://img.shields.io/badge/X-3D4A1F?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=0A1E3F&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=0A1E3F&labelColor=04102A" />
+<img src="https://komarev.com/ghpvc/?username=sumairali01&label=Views&color=3D4A1F&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sumairali01?label=Followers&style=flat-square&color=3D4A1F&labelColor=3D4A1F" />
 
 </div>
 
@@ -127,7 +127,7 @@ Status     Shipping
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,50:1E4A8C,100:04102A&height=110&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=55&desc=AI%20AUTOMATION%20ENGINEER&descAlignY=78&descSize=11&descColor=9BC8E8" width="75%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3D4A1F,100:3D4A1F&height=110&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=55&desc=AI%20AUTOMATION%20ENGINEER&descAlignY=78&descSize=11&descColor=FFFFFF" width="75%" />
 
 </div>
 
