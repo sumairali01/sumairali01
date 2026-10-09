@@ -1,21 +1,6 @@
 <div align="center">
 
-# Sumair
-
-**AI Automation Developer · Agentic AI & Backend Engineering**
-
-Designing LLM-powered systems that automate real workflows, with the engineering discipline to keep them reliable.
-
-[Focus](#focus) · [Live Activity](#live-activity) · [Engineering Approach](#engineering-approach) · [Stack](#stack) · [Contact](#contact)
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=SUMAIR&fontSize=70&fontColor=00D9FF&fontAlignY=40&desc=AI%20Automation%20Developer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Backend%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" alt="Sumair banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=SUMAIR&fontSize=70&fontColor=00D9FF&fontAlignY=38&desc=AI%20Automation%20Developer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Backend%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" alt="Sumair banner" width="100%" />
 
 <a href="https://github.com/sumairali01">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=45&lines=I+build+agents+that+do+real+work;LLMs+%E2%86%92+Tools+%E2%86%92+Automation;RAG+systems+%C2%B7+MCP+%C2%B7+n8n+workflows;Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS" alt="Typing animation" />
@@ -36,7 +21,7 @@ Designing LLM-powered systems that automate real workflows, with the engineering
 
 <br/>
 
-## ⚡ What I Do
+##  What I Do
 
 I turn LLMs from impressive demos into **reliable systems that automate real workflows**, combining solid backend engineering with intelligent agents.
 
@@ -56,7 +41,7 @@ Embeddings, vector search, and retrieval that is **measured, not guessed**.
 </td>
 <td width="33%" valign="top">
 
-###  Automation
+### ⚙️ Automation
 n8n and custom pipelines that **remove repetitive manual work** end to end.
 
 </td>
@@ -70,13 +55,13 @@ Python/Django and Laravel services with **REST and GraphQL** APIs.
 </td>
 <td width="33%" valign="top">
 
-###  MCP & Tools
+### 🔌 MCP & Tools
 Connecting agents to real systems through **MCP and tool integrations**.
 
 </td>
 <td width="33%" valign="top">
 
-###  Deployment
+### ☁️ Deployment
 **Dockerised** services shipped to AWS, built to be repeatable.
 
 </td>
@@ -89,19 +74,19 @@ Connecting agents to real systems through **MCP and tool integrations**.
 
 >  **This section writes itself.** A scheduled GitHub Action ([`update-readme.yml`](.github/workflows/update-readme.yml)) runs [`update_readme.py`](scripts/update_readme.py) every day and commits fresh data. Nothing below is edited by hand.
 
-#### Profile snapshot
+####  Profile snapshot
 
 <!--STATS:START-->
 Waiting for the first automated run.
 <!--STATS:END-->
 
-#### Recently active repositories
+####  Recently active repositories
 
 <!--REPOS:START-->
 Waiting for the first automated run.
 <!--REPOS:END-->
 
-#### 🕒 Recent pushes
+####  Recent pushes
 
 <!--ACTIVITY:START-->
 Waiting for the first automated run.
@@ -171,7 +156,7 @@ flowchart LR
 
 <br/>
 
-## Currently
+##  Currently
 
 ```diff
 + NOW    Building backend apps with Python and Django
