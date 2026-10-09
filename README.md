@@ -1,22 +1,10 @@
 <div align="center">
 
-<table width="75%" align="center">
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #0A1E3F 0%, #04102A 100%); border-radius: 12px; padding: 30px 20px;">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,50:1E4A8C,100:04102A&height=170&section=header&text=Sumair%20Ali&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=AI%20AUTOMATION%20ENGINEER%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=64&descSize=13&descColor=9BC8E8" width="75%" />
 
 <br/>
 
-<h1 style="color: #FFFFFF; font-size: 42px; margin: 0; letter-spacing: 2px;">Sumair Ali</h1>
-
-<p style="color: #9BC8E8; font-size: 15px; margin: 6px 0 18px 0; letter-spacing: 1px;">AI AUTOMATION ENGINEER</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=380&height=25&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+MCP;Python+%C2%B7+Django+%C2%B7+Laravel;Building+automation+that+runs+itself" alt="typing" />
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=9BC8E8&center=true&vCenter=true&width=380&height=25&lines=Python+%C2%B7+Django+%C2%B7+Laravel+%C2%B7+AWS;Building+automation+that+runs+itself" alt="typing" />
 
 </div>
 
@@ -139,17 +127,7 @@ Status     Shipping
 
 <div align="center">
 
-<table width="75%" align="center">
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #0A1E3F 0%, #04102A 100%); border-radius: 12px; padding: 22px 20px;">
-
-<h2 style="color: #FFFFFF; font-size: 26px; margin: 0; letter-spacing: 2px;">Sumair Ali</h2>
-
-<p style="color: #9BC8E8; font-size: 12px; margin: 8px 0 0 0; letter-spacing: 1px;">AI AUTOMATION ENGINEER</p>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1E3F,50:1E4A8C,100:04102A&height=110&section=footer&text=Sumair%20Ali&fontSize=22&fontColor=FFFFFF&fontAlignY=55&desc=AI%20AUTOMATION%20ENGINEER&descAlignY=78&descSize=11&descColor=9BC8E8" width="75%" />
 
 </div>
 
