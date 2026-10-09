@@ -1,119 +1,169 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:16294A&height=200&section=header&text=YOUR%20NAME&fontSize=54&fontColor=F5A524&align=left&fontAlign=5&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Automation%20%7C%20AI%20Systems&descAlign=5&descAlignY=65&descSize=16&descColor=C9D1D9" width="100%" alt="header" />
+<div align="center">
 
-> **I design and ship backend systems and automation that stay reliable under real workloads.**
-> Clean architecture, measurable results, minimal noise.
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,60:0E4F63,100:22D3EE&height=230&section=header&text=YOUR%20NAME&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Automation%20%C2%B7%20AI%20Systems&descAlignY=62&descSize=17&descColor=E2E8F0" width="100%" alt="header" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=30&lines=Designing+reliable+backend+systems;Automating+workflows+end+to+end;Turning+complex+problems+into+clean+code" alt="typing" />
 
-## Profile
+<br/><br/>
 
-| | |
-|:--|:--|
-| **Role** | Software Engineer |
-| **Location** | City, Country |
-| **Focus** | Backend systems, AI automation, APIs |
-| **Open to** | Full-time roles, contracts, collaboration |
-| **Response time** | Within 24 hours |
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=22D3EE" /></a>
+
+</div>
 
 <br/>
 
-## Currently
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
-```text
-Building      Your main project, one line about what it does
-Learning      Technology or concept you are studying now
-Exploring     Something you are experimenting with
+### About
+
+I am a software engineer who builds **backend systems, APIs, and automation** that hold up in production. I care about clear architecture, readable code, and results that can be measured.
+
+My work sits between engineering and operations: taking a manual, error-prone process and turning it into a dependable system that runs on its own.
+
+</td>
+<td width="42%" valign="top">
+
+### Snapshot
+
+```yaml
+role:      Software Engineer
+focus:     Backend / Automation / AI
+location:  City, Country
+stack:     Python, Django, Node.js
+cloud:     AWS, Docker, Linux
+status:    Open to opportunities
 ```
 
-<br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=transparent&bg_color=0B1220&title_color=F5A524&text_color=C9D1D9&icon_color=F5A524&border_color=1E2A44" width="100%" alt="Project one" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=transparent&bg_color=0B1220&title_color=F5A524&text_color=C9D1D9&icon_color=F5A524&border_color=1E2A44" width="100%" alt="Project two" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=transparent&bg_color=0B1220&title_color=F5A524&text_color=C9D1D9&icon_color=F5A524&border_color=1E2A44" width="100%" alt="Project three" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=transparent&bg_color=0B1220&title_color=F5A524&text_color=C9D1D9&icon_color=F5A524&border_color=1E2A44" width="100%" alt="Project four" />
-</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## Toolbox
+### What I Do
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=F5A524) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F5A524) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=F5A524) ![PHP](https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=F5A524) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-0B1220?style=flat-square&logo=django&logoColor=F5A524) ![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=F5A524) ![Laravel](https://img.shields.io/badge/Laravel-0B1220?style=flat-square&logo=laravel&logoColor=F5A524) ![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=F5A524) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=F5A524) ![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=F5A524) ![Redis](https://img.shields.io/badge/Redis-0B1220?style=flat-square&logo=redis&logoColor=F5A524) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-0B1220?style=flat-square&logo=amazonwebservices&logoColor=F5A524) ![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=F5A524) ![Nginx](https://img.shields.io/badge/Nginx-0B1220?style=flat-square&logo=nginx&logoColor=F5A524) ![Linux](https://img.shields.io/badge/Linux-0B1220?style=flat-square&logo=linux&logoColor=F5A524) ![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F5A524) |
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+**Backend Engineering**
 
-## Engineering Principles
+REST and async APIs, authentication, database design, and services built to scale without drama.
 
-1. **Simple over clever.** Code is read far more often than it is written.
-2. **Automate the repeatable.** If a task happens twice, it becomes a script.
-3. **Measure first.** Optimize with data, not assumptions.
-4. **Ship in small steps.** Frequent, reversible releases beat large risky ones.
+</td>
+<td width="33%" valign="top">
 
-<br/>
+**Automation**
 
-## GitHub Activity
+Event-driven pipelines and integrations that remove repetitive work and keep operations moving.
 
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&border_color=1E2A44&bg_color=0B1220&title_color=F5A524&icon_color=F5A524&text_color=C9D1D9&border_radius=6" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide_border=false&border_color=1E2A44&bg_color=0B1220&title_color=F5A524&text_color=C9D1D9&border_radius=6" alt="Top languages" />
-</p>
+</td>
+<td width="33%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B1220&color=C9D1D9&line=F5A524&point=FFFFFF&area=true&area_color=F5A524&hide_border=true&custom_title=Contributions" width="100%" alt="Activity graph" />
+**AI Systems**
 
-<br/>
+LLM-powered tools, retrieval pipelines, and agents connected to real business data.
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5A524?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-F5A524?style=for-the-badge&logo=gmail&logoColor=0B1220)](mailto:you@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5A524?style=for-the-badge&logo=vercel&logoColor=0B1220)](https://your-site.dev)
-[![X](https://img.shields.io/badge/X-F5A524?style=for-the-badge&logo=x&logoColor=0B1220)](https://x.com/YOUR_HANDLE)
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16294A,100:0B1220&height=70&section=footer" width="100%" alt="footer" />
+### Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,js,ts,nodejs&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx,git,linux&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+### GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0&border_radius=10" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0F172A&stroke=1E3A4C&ring=22D3EE&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&border_radius=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0F172A&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+<br/>
+
+### Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0E4F63&style=flat-square" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0E4F63&labelColor=0F172A" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,60:0E4F63,100:22D3EE&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
 
 <!--
 SETUP
-1. Create a public repository named exactly: YOUR_USERNAME/YOUR_USERNAME
+1. Create a public repo named exactly: YOUR_USERNAME/YOUR_USERNAME
 2. Paste this file in as README.md
-3. Find and replace these placeholders:
-   YOUR_USERNAME   -> your GitHub username
-   YOUR NAME / YOUR%20NAME (header) -> your name
-   REPO_ONE ... REPO_FOUR -> names of the repos you want to pin
-   YOUR_LINKEDIN, you@example.com, your-site.dev, YOUR_HANDLE -> your links
-4. Edit the Profile, Currently and Toolbox sections to match you.
+3. Replace: YOUR_USERNAME, YOUR NAME (header, URL-encoded as YOUR%20NAME),
+   YOUR_LINKEDIN, you@example.com, your-site.dev, YOUR_HANDLE, City/Country
+4. Optional snake animation: add this workflow at .github/workflows/snake.yml
+
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 PALETTE
-Midnight navy  #0B1220  (background)
-Deep blue      #16294A  (gradient)
-Amber          #F5A524  (accent)
-Soft grey      #C9D1D9  (text)
+Slate navy  #0F172A   Deep teal  #0E4F63   Cyan accent  #22D3EE   Text  #E2E8F0
 -->
