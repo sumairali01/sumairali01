@@ -1,5 +1,5 @@
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=2500&pause=100&repeat=false&color=9CA3AF&background=033E3E&center=false&vCenter=true&width=880&height=90&lines=%C2%A0%C2%A0Sumair+Ali" alt="Sumair Ali" /><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2500&pause=100&repeat=false&color=9CA3AF&background=0D031B&center=false&vCenter=true&width=880&height=44&lines=%C2%A0%C2%A0AI+Automation+Engineer+%7C+Agentic+AI+%7C+RAG+%7C+MCP+%7C+Backend" alt="AI Automation Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=2500&pause=100&repeat=false&color=9CA3AF&background=033E3E&center=false&vCenter=true&width=880&height=90&lines=%C2%A0%C2%A0Sumair+Ali" alt="Sumair Ali" /><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2500&pause=100&repeat=false&color=9CA3AF&background=0D031B&center=false&vCenter=true&width=880&height=44&lines=%C2%A0%C2%A0AI+Automation+Engineer+%7C+Agentic+AI+%7C+RAG+%7C+MCP+%7C+Backend" alt="AI Automation Engineer" />
 </p>
 
 ---
