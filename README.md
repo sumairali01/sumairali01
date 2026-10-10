@@ -19,7 +19,7 @@
 -  Developer working with **Python, Django, FastApi, Php, Laravel, Next.js, React.js**.
 -  Exploring **Agentic AI, LLMs, RAG, and AI Automation**.
 -  Learning to build AI workflows with **n8n and MCP**.
--  Exploring **Docker, AWS, and cloud deployment**.
+-  Experienced in **Docker, AWS, and cloud deployment**.
 -  Interested in building practical software and AI-powered solutions.
 -  Always learning and improving my development skills.
 
