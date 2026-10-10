@@ -41,26 +41,6 @@
 
 ---
 
-##  Featured Projects
-
-###  YouTube Views Prediction — Machine Learning
-
-- Predicting YouTube video views using machine learning.
-- Working with feature engineering, text embeddings, and dimensionality reduction.
-- Building a prediction workflow and desktop interface.
-
-###  Django REST API
-
-- Developing REST APIs with Django REST Framework.
-- Practicing authentication, CRUD operations, filtering, and API testing.
-- Working with JWT authentication and OAuth integrations.
-
-###  AI Automation & Agentic AI
-
-- Exploring AI agents and automated workflows.
-- Learning how to connect APIs, tools, and language models.
-- Experimenting with RAG and MCP-based applications.
-
 ---
 
 ##  GitHub Statistics
