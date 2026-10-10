@@ -1,77 +1,101 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=2500&pause=100&repeat=false&color=2563EB&bg=033E3E&center=false&vCenter=true&width=700&height=70&lines=Sumair+Ali" alt="Sumair Ali" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2500&pause=100&repeat=false&color=8B949E&center=false&vCenter=true&width=700&height=30&lines=AI+Automation+Engineer+%7C+Agentic+AI+%7C+RAG+%7C+MCP+%7C+Backend" alt="AI Automation Engineer" />
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="./o (1).png" alt="Sumair Ali Profile Banner" width="100%" />
+</p>
+
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumair+Ali;AI+%26+Automation+Developer;Exploring+Agentic+AI%2C+RAG+%26+LLMs" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sumairali01">
+    <img src="https://komarev.com/ghpvc/?username=sumairali01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
-## About
+##  About Me
 
-I build **intelligent automation**: agents that plan and act, retrieval pipelines that stay grounded in real data, and backend services that keep everything running. My goal is simple. Take work that people repeat every day and turn it into systems that run on their own.
-
-<br/>
-
-## At a Glance
-
-| | |
-|:--|:--|
-| ![Role](https://img.shields.io/badge/ROLE-2563EB?style=flat-square) | **AI Automation Engineer** |
-| ![Focus](https://img.shields.io/badge/FOCUS-7C3AED?style=flat-square) | Agentic AI, RAG pipelines, MCP integrations |
-| ![Backend](https://img.shields.io/badge/BACKEND-DB2777?style=flat-square) | Python, Django, FastAPI, Laravel |
-| ![Cloud](https://img.shields.io/badge/CLOUD-0D9488?style=flat-square) | AWS, Docker, Linux |
-| ![Status](https://img.shields.io/badge/STATUS-D97706?style=flat-square) | Open to new projects |
-
-<br/>
-
-## What I Build
-
-| | | |
-|:--|:--|:--|
-| ![01](https://img.shields.io/badge/01-2563EB?style=flat-square) | **Autonomous Agents** | Systems that plan, call tools, verify results, and finish tasks end to end |
-| ![02](https://img.shields.io/badge/02-7C3AED?style=flat-square) | **Retrieval Pipelines** | Vector search with reranking so answers stay accurate and grounded |
-| ![03](https://img.shields.io/badge/03-DB2777?style=flat-square) | **MCP Integrations** | Connections that give language models safe access to internal tools and data |
-| ![04](https://img.shields.io/badge/04-0D9488?style=flat-square) | **Workflow Automation** | Event-driven pipelines that run business operations without supervision |
-
-<br/>
-
-## Tech Stack
-
-**Languages** &nbsp;&nbsp; `Python` `JavaScript` `TypeScript` `PHP` `SQL`
-
-**Frameworks** &nbsp;&nbsp; `Django` `FastAPI` `Laravel` `Node.js` `n8n`
-
-**Data** &nbsp;&nbsp; `PostgreSQL` `MySQL` `Redis`
-
-**Infrastructure** &nbsp;&nbsp; `AWS` `Docker` `Nginx` `Linux` `Git`
-
-<br/>
-
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&hide_border=true&bg_color=000000&border_radius=10&title_color=2563EB&icon_color=2563EB&text_color=8B949E" alt="Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&langs_count=7&hide_border=true&bg_color=000000&border_radius=10&title_color=2563EB&text_color=8B949E" alt="Top languages" />
-</p>
-
-<p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumairali01&hide_border=true&background=000000&border_radius=10&ring=2563EB&fire=2563EB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E" alt="Streak" />
-</p>
-
-<br/>
-
-## Connect
-
-**[LinkedIn](https://linkedin.com/in/sumairali01)** &nbsp;|&nbsp; **[Email](mailto:sumair@example.com)** &nbsp;|&nbsp; **[Portfolio](https://sumair.dev)** &nbsp;|&nbsp; **[X](https://x.com/sumairali01)**
+-  Computer Science graduate.
+-  Developer working with **Python, Django, Laravel, and PHP**.
+-  Exploring **Agentic AI, LLMs, RAG, and AI Automation**.
+-  Learning to build AI workflows with **n8n and MCP**.
+-  Exploring **Docker, AWS, and cloud deployment**.
+-  Interested in building practical software and AI-powered solutions.
+-  Always learning and improving my development skills.
 
 ---
 
-<!--
-SETUP
-1. Create a public repo named exactly: sumairali01/sumairali01
-2. Paste this file in as README.md (no other files needed)
-3. Replace sumair@example.com and sumair.dev with your real email and portfolio.
-   (LinkedIn and X use your username; change them if your handles differ)
+##  Tech Stack
 
-COLOR
-Main accent: blue #2563EB. Table accents: violet #7C3AED, pink #DB2777,
-teal #0D9488, amber #D97706. Change any hex code to restyle.
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,graphql,mysql,postgres,git,github,docker,aws,postman,vscode" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-1565C0?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MCP-333333?style=for-the-badge" alt="MCP" />
+</p>
+
+---
+
+##  Featured Projects
+
+###  YouTube Views Prediction — Machine Learning
+
+- Predicting YouTube video views using machine learning.
+- Working with feature engineering, text embeddings, and dimensionality reduction.
+- Building a prediction workflow and desktop interface.
+
+###  Django REST API
+
+- Developing REST APIs with Django REST Framework.
+- Practicing authentication, CRUD operations, filtering, and API testing.
+- Working with JWT authentication and OAuth integrations.
+
+###  AI Automation & Agentic AI
+
+- Exploring AI agents and automated workflows.
+- Learning how to connect APIs, tools, and language models.
+- Experimenting with RAG and MCP-based applications.
+
+---
+
+##  GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumairali01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumairali01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumairali01&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
+</p>
+
+---
+
+##  Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumairali01/sumairali01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</p>
+
+---
+
+##  Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sumairali01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+   <i>Building, learning, and exploring what's possible with AI and software.</i>
+</p>
