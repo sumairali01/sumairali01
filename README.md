@@ -28,7 +28,7 @@
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,graphql,mysql,postgres,git,github,docker,aws,postman,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,js,react,graphql,mysql,postgres,git,github,docker,aws,postman" alt="Tech stack" />
 </p>
 
 <p align="center">
