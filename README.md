@@ -16,7 +16,7 @@
 ##  About Me
 
 -  Computer Science graduate.
--  Developer working with **Python, Django, Laravel, and PHP**.
+-  Developer working with **Python, Django, FastApi, Php,Laravel, Next.js, React.js**.
 -  Exploring **Agentic AI, LLMs, RAG, and AI Automation**.
 -  Learning to build AI workflows with **n8n and MCP**.
 -  Exploring **Docker, AWS, and cloud deployment**.
