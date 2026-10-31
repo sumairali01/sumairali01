@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sumair Ali 👋
+# Hi, I'm Sumair Ali 👨
 
 ### Software Developer | Python & Backend Engineering | AI & Automation
 
